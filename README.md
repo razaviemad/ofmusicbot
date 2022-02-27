@@ -17,8 +17,8 @@
 ## 🚀 Getting Started
 
 ```sh
-git clone https://github.com/eritislami/evobot.git
-cd evobot
+git clone https://github.com/razaviemad/ofmusicbot.git
+cd ERBot
 npm install
 ```
 
